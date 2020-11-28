@@ -7,7 +7,9 @@
 </head>
 <body>
     <?php
+        // Titular de la seccion
         echo "<h2>Listado de videojuegos</h2>";
+        // Lista de videojuegos
         echo "<ul>"
                 ."<li>Zelda</li>"
                 ."<li>Mario Bros</li>"
