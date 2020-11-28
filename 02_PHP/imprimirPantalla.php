@@ -14,5 +14,8 @@
                 ."<li>Tetris</li>"
             ."</ul>";
     ?>
+
+    <!-- Echo atajado -->
+    <?="Esto es un ECHO rapido o mejor conocido como atajado"?>
 </body>
 </html>
