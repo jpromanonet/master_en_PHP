@@ -7,7 +7,12 @@
 </head>
 <body>
     <?php
-        echo "<h2>Listado de videojuegos</h2>"
+        echo "<h2>Listado de videojuegos</h2>";
+        echo "<ul>"
+                ."<li>Zelda</li>"
+                ."<li>Mario Bros</li>"
+                ."<li>Tetris</li>"
+            ."</ul>";
     ?>
 </body>
 </html>
