@@ -6,5 +6,6 @@ $numero = 44;
 $verdadero = true;
 
 echo '<h1>'.$miPrimeraVariable.'</h1>';
+echo $numero;
 
 ?>
