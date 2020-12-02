@@ -2,6 +2,6 @@
 
 $miPrimeraVariable = "Hola mundo desde PHP";
 
-echo $miPrimeraVariable;
+echo '<h1>'.$miPrimeraVariable.'</h1>';
 
 ?>
