@@ -7,5 +7,6 @@ $verdadero = true;
 
 echo '<h1>'.$miPrimeraVariable.'</h1>';
 echo $numero;
+echo $verdadero;
 
 ?>
