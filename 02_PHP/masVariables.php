@@ -13,4 +13,9 @@ echo '<h1>'.$miPrimeraVariable.'</h1>';
 echo $numero.'</br>';
 echo $verdadero.'</br>';
 
+// Reemplazamos por 120 y mostrara 120
+$numero = 120;
+
+echo $numero;
+
 ?>
