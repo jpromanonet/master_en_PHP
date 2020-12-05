@@ -13,4 +13,6 @@ Objetos
 
 */
 
+$numero = 100;
+
 ?>
