@@ -24,5 +24,6 @@ echo gettype($texto);
 // Las variables no pueden jamas comenzar con un número
 // pero pueden contener o terminar en numero
 // Solo guiones bajos, NO signo de operadores.
+// Solo letras en ingles, nada de tiles o Ñ
 
 ?>
