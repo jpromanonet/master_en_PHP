@@ -9,6 +9,8 @@ Cadenas(strong) = "Hola, yo soy un string"
 Booleano (bool) = true OR false
 null
 Array(coleccion o lista de datos indexados)
+Objetos
+
 */
 
 ?>
