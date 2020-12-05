@@ -25,5 +25,9 @@ echo gettype($texto);
 // pero pueden contener o terminar en numero
 // Solo guiones bajos, NO signo de operadores.
 // Solo letras en ingles, nada de tiles o Ñ
+//-------------------------------------------------------------
+
+// Vamos a debuggear
+
 
 ?>
