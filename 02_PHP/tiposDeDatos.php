@@ -28,6 +28,6 @@ echo gettype($texto);
 //-------------------------------------------------------------
 
 // Vamos a debuggear
-
+$miNombre = "Juan";
 
 ?>
