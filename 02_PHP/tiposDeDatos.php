@@ -15,5 +15,7 @@ Objetos
 
 $numero = 100;
 $decimal = 27.9;
+$texto = "Soy un texto";
+$verdadero = true;
 
 ?>
