@@ -18,4 +18,7 @@ $decimal = 27.9;
 $texto = "Soy un texto";
 $verdadero = true;
 
+echo $verdadero;
+echo gettype($texto);
+
 ?>
