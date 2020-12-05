@@ -29,5 +29,5 @@ echo gettype($texto);
 
 // Vamos a debuggear
 $miNombre = "Juan";
-
+var_dump($miNombre);
 ?>
