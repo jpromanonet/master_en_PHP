@@ -30,4 +30,8 @@ echo gettype($texto);
 // Vamos a debuggear
 $miNombre = "Juan";
 var_dump($miNombre);
+
+// Debuggeo un Array
+$mi_nombre = "Juan Pablo Romano";
+var_dump($mi_nombre);
 ?>
