@@ -6,6 +6,9 @@
     define('nombre', 'Juan');
     define('web', 'jpromano.net');
 
+    web = "hola"; //No modifica el valor de la constante.
+
     echo'<h1>'.nombre.'</h1>';
+    echo'<h1>'.web.'</h1>';
 
 ?>
