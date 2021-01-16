@@ -1,0 +1,7 @@
+<?php
+
+// Operadores de asignación
+
+
+
+?>
