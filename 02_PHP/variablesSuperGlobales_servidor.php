@@ -25,5 +25,8 @@ echo $_SERVER['HTTP_USER_AGENT'];
 echo '</h1>';
 
 // Dirección remota
+echo '<h1>';
+echo $_SERVER['REMOTE_ADDR'];
+echo '</h1>';
 
 ?>
