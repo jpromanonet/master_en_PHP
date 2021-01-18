@@ -4,4 +4,7 @@ echo '<h1>'.$_GET['nombre'].'</h1>';
 echo '<h1>'.$_GET['apellidos'].'</h1>';
 echo '<h1>'.$_GET['web'].'</h1>';
 
+// Todos los datos juntos
+var_dump($_GET);
+
 ?>
