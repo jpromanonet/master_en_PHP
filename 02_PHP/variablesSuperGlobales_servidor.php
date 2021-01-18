@@ -12,5 +12,7 @@ echo '</h1>';
 // Nombre del servidor
 echo '<h1>';
 echo $_SERVER['SERVER_NAME'];
+echo '</h1>';
 
+// Software del servidor
 ?>
