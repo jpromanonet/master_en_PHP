@@ -7,7 +7,10 @@
 // IP del server
 echo '<h1>';
 echo $_SERVER['SERVER_ADDR'];
-echo '<h1>';
+echo '</h1>';
 
 // Nombre del servidor
+echo '<h1>';
+echo $_SERVER['SERVER_NAME'];
+
 ?>
