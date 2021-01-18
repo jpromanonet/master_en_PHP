@@ -20,4 +20,10 @@ echo $_SERVER['SERVER_SOFTWARE'];
 echo '</h1>';
 
 // HTTP USER AGENT
+echo '<h1>';
+echo $_SERVER['HTTP_USER_AGENT'];
+echo '</h1>';
+
+// Dirección remota
+
 ?>
