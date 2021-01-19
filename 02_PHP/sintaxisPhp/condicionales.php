@@ -12,4 +12,12 @@
  * }
  */
 
+$color = "rojo";
+
+if($color == "rojo"){
+    echo "EL COLOR ES ROJO";
+} else {
+    echo "EL COLOR NO ES ROJO";
+}
+
 ?>
