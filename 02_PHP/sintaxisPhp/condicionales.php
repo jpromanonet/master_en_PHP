@@ -10,14 +10,17 @@
  * } else {
  *      otras instrucciones
  * }
+ *
+ * Esto se llama "control de flujo" o "control flow"
+ *
  */
 
-$color = "rojo";
+$color = "verde";
 
-if($color == "rojo"){
-    echo "EL COLOR ES ROJO";
+if($color == "verde"){
+    echo "EL COLOR ES VERDE";
 } else {
-    echo "EL COLOR NO ES ROJO";
+    echo "EL COLOR NO ES VERDE";
 }
 
 ?>
