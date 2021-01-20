@@ -19,7 +19,10 @@ Esto se llama "control de flujo" o "control flow"
 // OPERADORES DE COMPARACION
 
 /*
+
 '==' IGUAL
+'===' ESTRICTAMENTE IGUAL
+
 */
 
 // Declaro variables
