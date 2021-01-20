@@ -15,6 +15,12 @@
  *
  */
 
+// OPERADORES DE COMPARACION
+
+/*
+*
+*/
+
 $color = "verde";
 
 if($color == "verde"){
