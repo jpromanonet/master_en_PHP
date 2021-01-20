@@ -24,6 +24,9 @@ Esto se llama "control de flujo" o "control flow"
 '===' ESTRICTAMENTE IGUAL
 '!=' DIFERENTE DE...
 '<>' DIFERENTE DE...
+'!==' NO IDENTICO
+'<' MENOR QUE
+
 */
 
 // Declaro variables
