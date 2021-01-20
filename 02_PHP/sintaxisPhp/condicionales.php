@@ -42,6 +42,11 @@ if($color == "verde"){
     echo "EL COLOR NO ES VERDE";
 }
 
+if($year === 2021){
+    echo "El año es 2021!!";
+} else {
+    echo "El año NO es 2021";
+}
 
 
 ?>
