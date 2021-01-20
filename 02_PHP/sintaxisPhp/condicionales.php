@@ -26,6 +26,9 @@ Esto se llama "control de flujo" o "control flow"
 '<>' DIFERENTE DE...
 '!==' NO IDENTICO
 '<' MENOR QUE
+'>' MAYOR QUE
+'<=' MENOR O IGUAL QUE
+'>=' MAYOR O IGUAL QUE
 
 */
 
