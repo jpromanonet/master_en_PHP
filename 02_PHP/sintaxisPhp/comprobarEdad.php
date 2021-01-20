@@ -2,7 +2,7 @@
 
 // Declaro variables
 $nombre = "Juan";
-$ciudad = "CABA"
+$ciudad = "CABA";
 $edad = 27;
 $mayoriaDeEdad = 18;
 
