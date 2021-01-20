@@ -22,6 +22,7 @@ Esto se llama "control de flujo" o "control flow"
 
 '==' IGUAL
 '===' ESTRICTAMENTE IGUAL
+'!=' DIFERENTE DE...
 
 */
 
