@@ -36,11 +36,15 @@ Esto se llama "control de flujo" o "control flow"
 $color = "verde";
 $year = 2021;
 
+// Ejemplo 01
+
 if($color == "verde"){
     echo "EL COLOR ES VERDE";
 } else {
     echo "EL COLOR NO ES VERDE";
 }
+
+// Ejemplo 02
 
 if($year === 2021){
     echo "El año es 2021!!";
@@ -48,5 +52,6 @@ if($year === 2021){
     echo "El año NO es 2021";
 }
 
+// Ejemplo 03
 
 ?>
