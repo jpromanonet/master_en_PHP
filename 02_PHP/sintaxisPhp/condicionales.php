@@ -64,6 +64,31 @@ if($continente === "Europa"){
 
 // Ejemplo 04
 
-
+if($dia === 1){
+    echo "Es Lunes";
+} else {
+    if($dia === 2){
+        echo "Es Martes";
+    } else {
+        if($dia === 3){
+            echo "Es Miercoles";
+        } else {
+            if($dia === 4){
+                echo "Es Jueves";
+            } else {
+                if($dia === 5){
+                    echo "Es Viernes";
+                } else {
+                    if($dia === 6)
+                        echo "Es Sabado";
+                } else {
+                    if($dia === 7){
+                        echo "Es Domingo";
+                    }
+                }
+            }
+        }
+    }
+}
 
 ?>
