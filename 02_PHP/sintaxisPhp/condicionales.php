@@ -35,6 +35,7 @@ Esto se llama "control de flujo" o "control flow"
 // Declaro variables
 $color = "verde";
 $year = 2021;
+$continente = "Europa"
 
 // Ejemplo 01
 
@@ -53,5 +54,11 @@ if($year === 2021){
 }
 
 // Ejemplo 03
+
+if($continente === "Europa"){
+    echo "Es Europeo";
+} else {
+    echo "No es Europeo";
+}
 
 ?>
