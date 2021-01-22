@@ -79,16 +79,16 @@ if($dia === 1){
                 if($dia === 5){
                     echo "Es Viernes";
                 } else {
-                    if($dia === 6)
+                    if($dia === 6){
                         echo "Es Sabado";
-                } else {
-                    if($dia === 7){
-                        echo "Es Domingo";
+                        } else {
+                            if($dia === 7){
+                                echo "Es Domingo";
+                            }
+                        }
                     }
                 }
             }
         }
-    }
-}
 
 ?>
