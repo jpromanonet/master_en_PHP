@@ -1,0 +1,5 @@
+<?php
+
+// Switch statement
+
+?>
