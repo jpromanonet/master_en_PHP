@@ -20,8 +20,10 @@ while($numero <= 100){
     if($numero != 100){
         echo ", ";
     }
-    
+
     $numero++;
 }
+
+// Ejemplos con While
 
 ?>
