@@ -15,7 +15,12 @@
 $numero = 0;
 
 while($numero <= 100){
-    echo "<p>".$numero, ";
+    echo $numero;
+
+    if($numero != 100){
+        echo ", ";
+    }
+    
     $numero++;
 }
 
