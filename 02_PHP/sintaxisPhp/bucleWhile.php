@@ -26,4 +26,13 @@ while($numero <= 100){
 
 // Ejemplos con While
 
+// Ejemplo 01
+
+if(isset($_GET['numero'])){
+    // Cambiar tipo de dato
+    $numero = (int)$_GET('numero');
+} else {
+    
+}
+
 ?>
