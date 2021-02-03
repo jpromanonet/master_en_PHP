@@ -39,4 +39,11 @@ if(isset($_GET['numero'])){
 
 echo "<h1>Tabla de multiplicar de el $numero</h1>";
 
+$contador = 1;
+
+while($contador <= 10){
+    echo "$numero x $contador = ".($numero*$contador)."</br>";
+    $contador++;
+}
+
 ?>
