@@ -37,5 +37,6 @@ if(isset($_GET['numero'])){
 
 // Ejemplo 02
 
+echo "<h1>Tabla de multiplicar de el $numero</h1>";
 
 ?>
