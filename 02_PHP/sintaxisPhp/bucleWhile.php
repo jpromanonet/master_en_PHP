@@ -30,9 +30,12 @@ while($numero <= 100){
 
 if(isset($_GET['numero'])){
     // Cambiar tipo de dato
-    $numero = (int)$_GET('numero');
+    $numero = (int)$_GET['numero'];
 } else {
-    
+    $numero = 1;
 }
+
+// Ejemplo 02
+
 
 ?>
