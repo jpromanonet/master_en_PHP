@@ -8,4 +8,10 @@ for(variable contador, condicion, actualizando contador){
 }
 */
 
+$resultado = 0;
+
+for($i = 0; $i <= 100; $i++){
+    $resultado = $resultado + $i;
+}
+
 ?>
