@@ -6,9 +6,9 @@
 
 // Resolucion
 
-$pais = "Argentina";
-$continente = "America";
-echo $pais;
-echo $continente;
+$pais = "Argentina"; // String
+$continente = "America"; // String
+
+echo "<h1>$pais - $continente</h1>";
 
 ?>
