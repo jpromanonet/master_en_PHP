@@ -13,8 +13,10 @@
 
 $contador = 0;
 
+# Logica del ejercicio
 while($contador <= 40){
-    echo "<h3></h3>";
+    $cuadrado = $contador*$contador;
+    echo "<h3>$cuadrado</h3>";
 }
 
 ?>
