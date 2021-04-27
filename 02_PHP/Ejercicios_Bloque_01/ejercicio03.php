@@ -15,8 +15,12 @@ $contador = 0;
 
 # Logica del ejercicio
 while($contador <= 40){
+    # Calculamos la raiz cuadrada de cada numero
     $cuadrado = $contador*$contador;
+    # Imprimimos cada resultado
     echo "<h3>$cuadrado</h3>";
+    # Actualizamos el contador
+    $contador++;
 }
 
 ?>
