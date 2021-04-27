@@ -11,8 +11,10 @@
 
 # Definimos variables
 
-while(){
-    
+$contador = 0;
+
+while($contador <= 40){
+    echo "<h3></h3>";
 }
 
 ?>
